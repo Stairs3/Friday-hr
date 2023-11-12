@@ -1,14 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: navy;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 4.5rem;
+    overflow: hidden;
+    margin: 0;
 
+}
 
 Footer{
     background-color: #F1FA3D;
     position: absolute;
-    bottom: 0;
+    bottom: -1;
     width: 100%;
     height: 10rem;
     overflow: hidden;
     margin: 0;
 }
+
 Footer img {
     padding: 2%;
 }
@@ -17,26 +31,28 @@ Footer img {
 } */
 
 .logo {
-    background-color: navy;
     text-align: center;
     color: white;
-    padding: 2% 0%;
+    padding: 0% 45%;
     top: 0%;
     position: fixed;
     margin: 0;
+
 }
 
 /* navigation */
 ul {
     list-style-type: none;
+    text-wrap: nowrap;
     margin: 0;
-    padding: 13% 0%;
+    padding: 4rem 0rem;
     overflow: hidden;
     background-color: navy;
     position: fixed;
     height: 100%;
     width: 0%;
-    transition: 0.5s;
+    transition: .5s;
+    z-index: 0.5;
 
     
 }
@@ -57,8 +73,8 @@ li a:hover{
     width: 30px;
     height: 30px;
     text-align: left;
-    top: 7.5%;
-    left: 4.5%;
+    top: 1.3rem;
+    left: 1rem;
     position: fixed;
     cursor: pointer;
     
@@ -84,12 +100,37 @@ li a:hover{
     
 }
 .nav-toggle:checked ~ nav ul{
-    width: 35%;
+    width: 200px;
     
 }
+
 .nav-toggle{
     display: none;
 }
 .nav-search{
     text-align: center;
+}
+
+.content {
+    height: 200vh;
+    background-image: url(//unsplash.it/1000/1000);
+    background-color: #333;
+    background-blend-mode: multiply;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    color: white;
+}
+
+@media screen  and (max-width: 800px){
+    body::-webkit-scrollbar{
+        display: none;
+    }
+    .nav-toggle-lable {
+        display: none;
+    }
+    .logo {
+        padding: 0% 20%;
+    }
+    
 }
