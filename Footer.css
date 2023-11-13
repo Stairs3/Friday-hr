@@ -3,11 +3,11 @@ body{
     padding: 0;
 }
 header{
-    background-color: navy;
+    background-image: url(//unsplash.it/1000/100);
     position: fixed;
     top: 0;
     width: 100%;
-    height: 4.5rem;
+    height: 5.5rem;
     overflow: hidden;
     margin: 0;
 
@@ -37,7 +37,9 @@ Footer img {
     top: 0%;
     position: fixed;
     margin: 0;
-
+}
+.logo-link{
+    cursor: default;
 }
 
 /* navigation */
@@ -131,6 +133,16 @@ li a:hover{
     }
     .logo {
         padding: 0% 20%;
+        position: absolute;
     }
-    
+    header{
+        position: absolute;
+    }
+    .big_wrapper{
+        position: absolute;
+    }
+    .nav-toggle:checked ~ nav ul{
+        width: 200px;
+        
+    }
 }
