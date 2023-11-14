@@ -3,11 +3,11 @@ body{
     padding: 0;
 }
 header{
-    background-image: url(//unsplash.it/1000/100);
+    background-color: navy;
     position: fixed;
     top: 0;
     width: 100%;
-    height: 5.5rem;
+    height: 3.5rem;
     overflow: hidden;
     margin: 0;
 
@@ -33,11 +33,17 @@ Footer img {
 .logo {
     text-align: center;
     color: white;
-    padding: 0% 45%;
+    width: 2%;
+    padding: 0% 40%;
     top: 0%;
     position: fixed;
     margin: 0;
 }
+
+.logo-link img{
+    width: 25rem;
+}
+
 .logo-link{
     cursor: default;
 }
@@ -75,7 +81,7 @@ li a:hover{
     width: 30px;
     height: 30px;
     text-align: left;
-    top: 1.3rem;
+    top: .8rem;
     left: 1rem;
     position: fixed;
     cursor: pointer;
@@ -133,11 +139,20 @@ li a:hover{
     }
     .logo {
         padding: 0% 20%;
+        
+        
         position: absolute;
     }
     header{
         position: absolute;
+        height: 4rem;
     }
+
+    .logo-link img{
+        width: 15rem;
+        padding: 1rem 0rem;
+    }
+
     .big_wrapper{
         position: absolute;
     }
