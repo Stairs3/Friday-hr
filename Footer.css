@@ -4,7 +4,7 @@ body{
 }
 header{
     background-color: navy;
-    position: fixed;
+    position: sticky;
     top: 0;
     width: 100%;
     height: 3.5rem;
@@ -36,7 +36,7 @@ Footer img {
     width: 2%;
     padding: 0rem 4rem;
     top: 0%;
-    position: fixed;
+    position: sticky;
     margin: 0;
 }
 
@@ -49,7 +49,7 @@ Footer img {
 }
 
 /* navigation */
-ul {
+.info {
     list-style-type: none;
     text-wrap: nowrap;
     margin: 0;
@@ -118,18 +118,35 @@ li a:hover{
 .nav-search{
     text-align: center;
 }
+.idk{
+    height: 1000vh
+}
+.member{
 
-.content {
-    height: 200vh;
-    background-image: url(//unsplash.it/1000/1000);
-    background-color: #333;
-    background-blend-mode: multiply;
-    background-size: cover;
+ 
+
+    color: black;
+    font-size: x-large;
+    position: absolute;
+    padding: 0rem 10rem;
+}
+.eligibility{
+    height: 100vh;
+    background-color: lightblue;
     display: grid;
     place-items: center;
-    color: white;
-}
+    color: black;
+    font-size: x-large;
 
+}
+.banner {
+    background-image: url(//unsplash.it/1900/1000);
+    padding: 10rem;
+    display: grid;
+    place-items: center;
+
+
+}
 @media screen  and (max-width: 800px){
     body::-webkit-scrollbar{
         display: none;
@@ -157,4 +174,27 @@ li a:hover{
         width: 200px;
         
     }
+}
+
+@media screen  and (max-width: 300px){
+    .logo-link img{
+        width: 15rem;
+    }
+    .logo { 
+        position: absolute;
+        padding: 1rem 3rem;
+    }
+
+
+}
+
+@media screen  and (max-height: 698px){
+    .logo-link img{
+        width: 15rem;
+    }
+    .logo { 
+        position: absolute;
+        padding: 1rem 3rem;
+    }
+
 }
