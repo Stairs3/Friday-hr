@@ -122,9 +122,6 @@ li a:hover{
     height: 1000vh
 }
 .member{
-
- 
-
     color: black;
     font-size: x-large;
     position: absolute;
@@ -137,7 +134,14 @@ li a:hover{
     place-items: center;
     color: black;
     font-size: x-large;
-
+}
+.content{
+    height: 100vh;
+    background-color: lightblue;
+    display: grid;
+    place-items: center;
+    color: black;
+    font-size: x-large;
 }
 .banner {
     background-image: url(//unsplash.it/1900/1000);
