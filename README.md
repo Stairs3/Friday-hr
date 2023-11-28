@@ -21,6 +21,10 @@ Talk about what FRC is somewhere???
 If we really wanted to get fancy we could add a page for each section of the team on the website like https://www.umatillarobotics.org/scouting 
 make it so all photos follow a uniform naming system?
 
+To-Do:
+Clean up style sheet (I keep repeating the same text specifications over and over again T^T)
+Figure out what sponsors go in the footer
+
 Links:
 Old Website - https://sites.google.com/student.fortosage.net/ctcinspire/home 
 Canva Edit Link - https://www.canva.com/design/DAFx0i82uTw/iy0YE9jpoic5TuoMont8FQ/edit?utm_content=DAFx0i82uTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
@@ -30,6 +34,7 @@ Drive Photos Folder - https://drive.google.com/drive/folders/1V_JvBv8gGi32bye-1M
 
 Resources:
 Footer example code: https://web-eau.net/en/blog/10-best-footer-html-css-snippets 
+Ways to try and apply header and footer to every page: https://www.linkedin.com/advice/0/how-can-you-reuse-headers-footers-multiple-web-pages-skills-html 
 
 Other Robotics Teams’ Websites:
 https://www.laser3284.org/ 

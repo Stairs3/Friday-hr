@@ -1,3 +1,4 @@
+/* Footer styles */
 footer {
     background-color: #F1FA3D;
     position: absolute;
@@ -32,20 +33,51 @@ footer h3 {
     width: 33%;
   }
 
-a {
+footer a {
     text-decoration: none;
     font-size: 25px;
     color: #4169e1;
 }
 
-a:visited {
+footer a:visited {
     text-decoration: none;
     font-size: 25px;
     color: #4169e1;
 }
 
-a:hover {
+footer a:hover {
     text-decoration: none;
     color: #4169e1;
     font-weight: bold;
 }
+
+/* Contact Us styles */
+.contactus ul {
+    list-style-type: none;
+    /* how do i get rid of the space where there would hypothetically be bullet points?? Or is the map just not following the position of all the other text*/
+}
+
+.contactus {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+
+
+.rightcolumn {
+    float: right;
+    padding: 15px;
+}
+
+.leftcolumn {
+    float: left;
+    padding: 15px;
+}
+
+/* Another way to position the columns:
+
+.rightcolumn, .leftcolumn {
+    width: 50%;
+}
+
+and add margin: 30px; or somethiung to .contactus */
