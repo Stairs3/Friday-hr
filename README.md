@@ -1,4 +1,10 @@
 # Friday-hr
+December 15th Deliverable:
+Layout
+Header
+Footer
+2 Pages
+
 Pages:
 Home, New Member Info, Media, Calendar and Events, Competition History, Sponsor Info, About Us, Contact Us, Search Bar
 
