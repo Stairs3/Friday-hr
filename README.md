@@ -4,6 +4,7 @@ Layout
 Header
 Footer
 2 Pages
+Fix contract
 
 Pages:
 Home, New Member Info, Media, Calendar and Events, Competition History, Sponsor Info, About Us, Contact Us, Search Bar
@@ -30,6 +31,8 @@ make it so all photos follow a uniform naming system?
 To-Do:
 Clean up style sheet (I keep repeating the same text specifications over and over again T^T)
 Figure out what sponsors go in the footer
+Make footer mobile accessible
+Attatch header and footer to every page with magic
 
 Links:
 Old Website - https://sites.google.com/student.fortosage.net/ctcinspire/home 
