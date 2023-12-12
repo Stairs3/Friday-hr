@@ -27,6 +27,7 @@ Make it so that the media page shows a lot of recent photos with a button that l
 Talk about what FRC is somewhere???
 If we really wanted to get fancy we could add a page for each section of the team on the website like https://www.umatillarobotics.org/scouting 
 make it so all photos follow a uniform naming system?
+maybe change behavior of links on new member info page AND contact us page so they match the style of footer?
 
 To-Do:
 Clean up style sheet (I keep repeating the same text specifications over and over again T^T)

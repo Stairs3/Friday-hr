@@ -62,12 +62,12 @@ footer a:hover {
 
 .rightcolumn {
     float: right;
-    padding: 45px;
+    padding: 80px;
 }
 
 .leftcolumn {
     float: left;
-    padding: 140px 30px;
+    padding: 170px 10px;
 }
 
 /* Another way to position the columns:
