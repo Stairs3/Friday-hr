@@ -25,7 +25,6 @@ Add team photo of current team
 Need current member list
 Make it so that the media page shows a lot of recent photos with a button that leads to another page with links to all the folders of old photos
 Talk about what FRC is somewhere???
-If we really wanted to get fancy we could add a page for each section of the team on the website like https://www.umatillarobotics.org/scouting 
 make it so all photos follow a uniform naming system?
 maybe change behavior of links on new member info page AND contact us page so they match the style of footer?
 
@@ -34,6 +33,7 @@ Clean up style sheet (I keep repeating the same text specifications over and ove
 Figure out what sponsors go in the footer
 Make footer mobile accessible
 Attatch header and footer to every page with magic
+MAKE BANNER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Links:
 Old Website - https://sites.google.com/student.fortosage.net/ctcinspire/home 

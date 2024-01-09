@@ -70,6 +70,11 @@ footer a:hover {
     padding: 170px 10px;
 }
 
+h1 {
+    color:#4169e1;
+    font-size: 25pt;
+}
+
 /* Another way to position the columns:
 
 .rightcolumn, .leftcolumn {
