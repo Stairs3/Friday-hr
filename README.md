@@ -14,7 +14,13 @@ Colors: Royal Blue (65,105,225)
         Safety Green (241,250,61)
 Signature Font: Bladerunner
 
+Ask McCabe for:
+Photo of first team
+photo of current team if we dont already have it
+current roster (w/ grades?)
+
 Ideas:
+Add transitions
 Maybe add link to FIRST website? (firstinspires.org)
 Team store link somewhere?
 Link ALL sponsor logos to their own websites!!
