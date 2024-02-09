@@ -138,3 +138,21 @@ label {
 }
 
 and add margin: 30px; or somethiung to .contactus */
+
+/* Media styles: */
+.gamelogos {
+    width: 350px;
+    margin: 10px;
+}
+
+h3 {
+    font-family: bladerunner;
+    font-size: 20pt;
+    color:#4169e1;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}

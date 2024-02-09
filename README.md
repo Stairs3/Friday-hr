@@ -8,7 +8,7 @@ Fix contract
 
 Pages:
 Home, New Member Info, Media, Calendar and Events, Competition History, Sponsor Info, About Us, Contact Us, Search Bar
-Not Done: Home, Media, Comp History (in progress), Sponsor Info, About Us (in progress)
+Not Done: Home, Comp History (in progress), Sponsor Info, About Us (in progress)
 
 Designs:
 Colors: Royal Blue (65,105,225)
@@ -46,6 +46,7 @@ maybe change behavior of links on new member info page AND contact us page so th
 To-Do:
 Clean up style sheet (I keep repeating the same text specifications over and over again T^T)
 Figure out what sponsors go in the footer
+finish about us :(
 Make footer mobile accessible
 Attatch header and footer to every page with magic
 MAKE BANNER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
