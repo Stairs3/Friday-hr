@@ -4,6 +4,14 @@
     src: url(bladerunner.TTF)
 }
 
+h2 {
+    font-family: bladerunner;
+    color:#4169e1;
+    font-size: 23pt;
+    margin-bottom: 5px;
+    padding: 0; 
+}
+
 /* Footer styles */
 body {
     font-family: sans-serif;

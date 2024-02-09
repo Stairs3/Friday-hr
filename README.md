@@ -8,6 +8,7 @@ Fix contract
 
 Pages:
 Home, New Member Info, Media, Calendar and Events, Competition History, Sponsor Info, About Us, Contact Us, Search Bar
+Not Done: Home, Media, Comp History (in progress), Sponsor Info, About Us (in progress)
 
 Designs:
 Colors: Royal Blue (65,105,225)
@@ -18,9 +19,17 @@ Ask McCabe for:
 Photo of first team
 photo of current team if we dont already have it
 current roster (w/ grades?)
+maybe to send out a survey for what the website banner should be
+access to media page folders
+
+BANNER Ideas:
+Photo relevant to page topic with text over it (Idk how it moves seperate from the rest of the site but it looks COOL) https://www.team1710.com/community-events/ https://team2471.org/students/
+Header and banner ALL IN ONE https://lakotarobotics.com/calendar/
 
 Ideas:
 Add transitions
+winner banners?
+newsletters?
 Maybe add link to FIRST website? (firstinspires.org)
 Team store link somewhere?
 Link ALL sponsor logos to their own websites!!
@@ -57,4 +66,5 @@ https://www.laser3284.org/
 https://www.victorrobotics.org/
 https://teamspork.com/ (This one is pretty cool)
 https://www.umatillarobotics.org/ 
+If we had more time: https://frc568.akfirstrobotics.org/
 
