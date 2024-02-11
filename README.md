@@ -8,7 +8,9 @@ Fix contract
 
 Pages:
 Home, New Member Info, Media, Calendar and Events, Competition History, Sponsor Info, About Us, Contact Us, Search Bar
-Not Done: Home, Comp History (in progress), Sponsor Info, About Us (in progress)
+Not Done: Home, Comp History (in progress), About Us (in progress). Maybe overhaul footer :(
+
+next date to put on contract: 2/9/24
 
 Designs:
 Colors: Royal Blue (65,105,225)
@@ -49,6 +51,7 @@ Figure out what sponsors go in the footer
 finish about us :(
 Make footer mobile accessible
 Attatch header and footer to every page with magic
+decide uniform layout for each page (same fonts, sizes, margins)
 MAKE BANNER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Links:
@@ -68,4 +71,6 @@ https://www.victorrobotics.org/
 https://teamspork.com/ (This one is pretty cool)
 https://www.umatillarobotics.org/ 
 If we had more time: https://frc568.akfirstrobotics.org/
+https://team2471.org/students/
+https://www.team254.com/sponsors/
 
