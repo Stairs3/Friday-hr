@@ -20,10 +20,10 @@ footer {
     width: 33%;
   }
 
-  footer a {
-    text-decoration: none;
-    font-size: 25px;
-    color: #4169e1;
+footer a {
+   text-decoration: none;
+   font-size: 25px;
+   color: #4169e1;
 }
 
 footer a:visited {
