@@ -47,12 +47,12 @@ maybe change behavior of links on new member info page AND contact us page so th
 
 To-Do:
 Clean up style sheet (I keep repeating the same text specifications over and over again T^T)
-Figure out what sponsors go in the footer
 finish about us :(
 Make footer mobile accessible
 Attatch header and footer to every page with magic
 decide uniform layout for each page (same fonts, sizes, margins)
 MAKE BANNER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+sitemap
 
 Links:
 Old Website - https://sites.google.com/student.fortosage.net/ctcinspire/home 

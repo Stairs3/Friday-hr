@@ -1,0 +1,47 @@
+#ch {
+    display: none;
+}
+
+#ch:checked ~ .aboutuscontent {
+    display: block;
+}
+
+#ch:checked ~ label {
+    display: none;
+}
+
+.aboutuscontent {
+    display: none;
+}
+
+label {
+    display: block;
+    cursor: pointer;
+    color:royalblue;
+    padding: 6px 13px;
+    border: 3px solid rgb(241,250,61);
+    border-radius: 5px;
+    border-color:#4169e1;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    width: 115px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+/* Another way to position the columns:
+
+.rightcolumn, .leftcolumn {
+    width: 50%;
+}
+
+and add margin: 30px; or somethiung to .contactus */
+
+/* Media styles: */
+.gamelogos {
+    width: 350px;
+    margin: 10px;
+}

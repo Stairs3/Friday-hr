@@ -1,0 +1,43 @@
+/* Bladerunner Font */
+@font-face {
+    font-family: bladerunner;
+    src: url(bladerunner.TTF)
+}
+
+h2 {
+    font-family: bladerunner;
+    color:#4169e1;
+    font-size: 23pt;
+    margin-bottom: 5px;
+    padding: 0; 
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+h1 {
+    color:#4169e1;
+    font-size: 30pt;
+    font-family: bladerunner;
+    margin-bottom: 0px;
+}
+
+p {
+    padding: 0;
+    margin: 10px;
+}
+
+
+h3 {
+    font-family: bladerunner;
+    font-size: 20pt;
+    color:#4169e1;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
