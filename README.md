@@ -1,7 +1,7 @@
 # Friday-hr
 Pages:
 Home, New Member Info, Media, Calendar and Events, Competition History, Sponsor Info, About Us, Contact Us, Search Bar
-Not Done: Home
+Not Done: Home, comp history
 
 next date to put on contract: 2/9/24
 
