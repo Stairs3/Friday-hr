@@ -21,10 +21,10 @@ make it so all photos follow a uniform naming system?
 maybe change behavior of links on new member info page AND contact us page so they match the style of footer?
 
 To-Do:
-Clean up style sheet (I keep repeating the same text specifications over and over again T^T)
 Make everything mobile accessible
 Attatch header and footer to every page
 MAKE BANNER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+fix member requirements (link style messes up header)
 
 Links:
 Old Website - https://sites.google.com/student.fortosage.net/ctcinspire/home 
