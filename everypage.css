@@ -4,6 +4,16 @@
     src: url(bladerunner.TTF)
 }
 
+html {
+    padding: 0;
+    margin: 0;
+  }  
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
 h2 {
     font-family: bladerunner;
     color:#4169e1;
@@ -15,6 +25,7 @@ h2 {
 body {
     font-family: sans-serif;
     font-size: 25px;
+    background-color: white;
 }
 
 h1 {
@@ -45,17 +56,19 @@ a {
 /* footer style */
 footer {
     background-color: #F1FA3D;
-    position: absolute;
     bottom: 0;
     width: 100%;
     height: 13rem;
     overflow: hidden;
     margin: 0%;
-    margin-top: 10px;
+    padding: 0;
     color: #4169e1;
     left: 0;
     right: 0;
+    margin-top: 50px;
 }
+/* margin-top: 10px; */
+
 
 .columns {
     display: flex;
@@ -82,4 +95,10 @@ footer a:hover {
     text-decoration: none;
     color: #4169e1;
     font-weight: bold;
+}
+
+/* Media styles: */
+.gamelogos {
+    width: 350px;
+    margin: 10px;
 }
