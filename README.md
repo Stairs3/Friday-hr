@@ -1,7 +1,7 @@
 # Friday-hr
 Pages:
 Home, New Member Info, Media, Calendar and Events, Competition History, Sponsor Info, About Us, Contact Us, Search Bar
-Not Done: Home, Comp History (in progress), About Us (in progress). Maybe overhaul footer :(
+Not Done: Home
 
 next date to put on contract: 2/9/24
 
