@@ -1,0 +1,14 @@
+contactus ul {
+    list-style-type: none;
+    /* how do i get rid of the space where there would hypothetically be bullet points?? Or is the map just not following the position of all the other text*/
+}
+
+.rightcolumn {
+    float: right;
+    padding: 80px;
+}
+
+.leftcolumn {
+    float: left;
+    padding: 170px 10px;
+}
