@@ -1,0 +1,22 @@
+header{
+    background-color: royalblue;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 4.3rem;
+
+    margin: 0;
+
+}
+.head{
+
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 3.5rem;
+    
+    margin: 0;
+}
+.big_wrapper{
+    position: absolute;
+}

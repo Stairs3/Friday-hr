@@ -103,7 +103,7 @@ li{
     text-align: left;
     top: .8rem;
     left: 1rem;
-    position: fixed;
+    position: absolute;
     cursor: pointer;
     
 }
@@ -169,8 +169,87 @@ li{
     display: grid;
     place-items: center;
     
+}
 
+.s3{
+    display: none;
+}
+.s2{
+    display: none;
+}
+.s1{
+    display: none;
+}
+ .s3:checked ~ .c3{
+    height: 50vh;
+    
+}
 
+.s3:checked ~ .c3 .lft{
+    display: flex;
+    
+}
+.s2:checked ~ .c2{
+    height: 50vh;
+}
+
+.s1:checked ~ .c1{
+    height: 50vh;
+
+}
+.nav-toggle-lable {
+    display: none;
+}
+.c1{
+    background-color: royalblue;
+    padding: 23px;
+    color: rgb(241,250,61);
+    border: 7px solid rgb(241,250,61);
+    border-radius: 5px;
+    position: relative;
+    margin-bottom: 15px;
+}
+.c2{
+    background-color: royalblue;
+    padding: 23px;
+    color: rgb(241,250,61);
+    border: 7px solid rgb(241,250,61);
+    border-radius: 5px;
+    position: relative;
+    margin-bottom: 15px;
+}
+.c3{
+    background-color: royalblue;
+    padding: 23px;
+    color: rgb(241,250,61);
+    border: 7px solid rgb(241,250,61);
+    border-radius: 5px;
+    position: relative;
+    margin-bottom: 15px;
+
+}
+.lft{
+    position: relative;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0.4rem 0.4rem;
+    display: none;
+}
+.heads {
+    top: 10px;
+    font-weight: bold;
+    position: absolute;
+}
+.left{
+    left: 50px;
+
+}
+.middle{
+    left: 45%;
+    transform: translateX(-45%);
+}
+.right{
+    right: 7rem;
 }
 .column{
     width: 50%;
