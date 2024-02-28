@@ -17,6 +17,86 @@ header{
     
     margin: 0;
 }
+.logo {
+    text-align: center;
+    color: white;
+    width: 2%;
+    padding: 0rem 4rem;
+    top: 0%;
+    position: sticky;
+    margin: 0;
+}
+
+.logo-link img{
+    width: 25rem;
+}
+
+.logo-link{
+    cursor: default;
+}
+.info {
+    list-style-type: none;
+    text-wrap: nowrap;
+    margin: 0;
+    padding: 0rem 0rem;
+    overflow: hidden;
+    background-color: royalblue;
+    position: fixed;
+    height: 100%;
+    width: 0%;
+    transition: .5s;
+    font-size: 20px;
+
+    
+}
+.info li a{
+    text-decoration: none;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+}
+li{
+    float: none;
+}
+.info li a:hover{
+    background-color: rgb(45, 45, 227);
+}
+
 .big_wrapper{
+    width: 30px;
+    height: 30px;
+    text-align: left;
+    top: .8rem;
+    left: 1rem;
     position: absolute;
+    cursor: pointer;
+    
+}
+.nav div{
+    height: 3px;
+    background-color: #fff;
+    margin: 5px 0;
+    border-radius: 5px;
+    transition: .3s;
+}
+.one{
+    width: 30px;
+}
+.two{
+    width: 15px;
+}
+.three{
+    width: 20px;
+}
+.nav:hover div{
+    width: 30px;
+    
+}
+.nav-toggle:checked ~ nav ul{
+    width: 250px;
+    
+}
+
+.nav-toggle{
+    display: none;
 }
