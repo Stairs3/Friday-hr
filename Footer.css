@@ -23,8 +23,7 @@ header{
     position: sticky;
     top: 0;
     width: 100%;
-    height: 4.3rem;
-
+    height: 4.3rem; 
     margin: 0;
 
 }
@@ -175,7 +174,6 @@ li{
     place-items: center;
     
 } */
-
 .s3{
     display: none;
 }
@@ -185,23 +183,26 @@ li{
 .s1{
     display: none;
 }
- .s3:checked ~ .c3{
-    height: 50vh;
-    
-}
 
+.s3:checked ~ .c3{
+    height: 50vh;   
+}
 .s3:checked ~ .c3 .lft{
+    display: flex;   
+}
+.s2:checked ~ .c2 .lft{
     display: flex;
-    
 }
 .s2:checked ~ .c2{
-    height: 50vh;
+    height: 60vh;
 }
-
+.s1:checked ~ .c1 .lft{
+    display: flex;
+}
 .s1:checked ~ .c1{
     height: 50vh;
-
 }
+
 .nav-toggle-lable {
     display: none;
 }
@@ -234,16 +235,21 @@ li{
 
 }
 .lft{
-    position: relative;
+    position:relative;
     font-size: 1rem;
     margin: 0;
     padding: 0.4rem 0.4rem;
     display: none;
+    text-align: center;
+    font-weight:lighter;
+    color: white;
+
 }
 .heads {
     top: 10px;
     font-weight: bold;
     position: absolute;
+    text-align: center;
 }
 .left{
     left: 50px;
