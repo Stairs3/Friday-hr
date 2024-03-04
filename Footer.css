@@ -37,7 +37,7 @@ header{
     
     margin: 0;
 }
-Footer{
+/* Footer{
     background-color: #F1FA3D;
     position: absolute;
     bottom: -1;
@@ -45,11 +45,11 @@ Footer{
     height: 10rem;
     overflow: hidden;
     margin: 0;
-}
+} */
 
-Footer img {
+/* Footer img {
     padding: 2%;
-}
+} */
 /* Footer h3 {
     font-size: 20px;
 } */
@@ -168,13 +168,13 @@ li{
     color: black;
     /* font-size: x-large; */
 }
-.banner {
+/* .banner {
     background-image: url(//unsplash.it/1900/1000);
     padding: 10rem;
     display: grid;
     place-items: center;
     
-}
+} */
 
 .s3{
     display: none;
@@ -258,11 +258,12 @@ li{
 }
 .column{
     width: 50%;
-    height: 100vh;
+    height: 63vh;
+    margin-bottom: 0;
 }
 .colums{
     display: flex;
-
+    margin-bottom: 0;
 }
 @media screen  and (max-width: 800px){
     body::-webkit-scrollbar{
