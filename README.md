@@ -1,6 +1,5 @@
 # Friday-hr
-To do before launch: attach header, banner, and footer to every page, finish comp history?, how hard would it be to make blue not cover logo when header opens up?
-
+To do before launch: attach header to every page, how hard would it be to make blue not cover logo when header opens up? fix about us
 Pages:
 Home, New Member Info, Media, Calendar and Events, Competition History, Sponsor Info, About Us, Contact Us
 
