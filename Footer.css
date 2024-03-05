@@ -191,7 +191,7 @@ li{
     display: flex;   
 }
 .s2:checked ~ .c2 .lft{
-    display: flex;
+    display: flex;  
 }
 .s2:checked ~ .c2{
     height: 70vh;
@@ -222,7 +222,7 @@ li{
     border: 7px solid rgb(241,250,61);
     border-radius: 5px;
     position: relative;
-    margin-bottom: 15px;
+    margin-bottom: 15px
 }
 .c3{
     background-color: royalblue;
@@ -247,7 +247,6 @@ li{
 
 }
 .marge{
-    /* padding-left: 300; */
     margin-left: 1.3rem;
 }
 .heads {
@@ -269,7 +268,7 @@ li{
 }
 .column{
     width: 50%;
-    height: 63vh;
+    height: 66vh;
     margin-bottom: 0;
 }
 .colums{
