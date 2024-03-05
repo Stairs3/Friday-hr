@@ -6,7 +6,7 @@
     display: block;
 }
 
-#ch:checked ~ label {
+#ch:checked ~ .randi label {
     display: none;
 }
 
@@ -14,7 +14,7 @@
     display: none;
 }
 
-label {
+.randi label {
     display: block;
     cursor: pointer;
     color:royalblue;
