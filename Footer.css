@@ -83,7 +83,6 @@ header{
     height: 100%;
     width: 0%;
     transition: .5s;
-    z-index: .5;
     font-size: 20px;
 
     
@@ -201,7 +200,7 @@ li{
     display: flex;
 }
 .s1:checked ~ .c1{
-    height: 60vh;
+    height: 65vh;
 }
 
 .nav-toggle-lable {
