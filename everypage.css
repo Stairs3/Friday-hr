@@ -102,3 +102,20 @@ footer a:hover {
     width: 350px;
     margin: 10px;
 }
+
+.banner {
+    background: royalblue;
+    width: 100%;
+    height: 10rem;
+}
+
+.banner h1 {
+    color: #F1FA3D;
+    text-align: center;
+    margin: 0;
+    font-size: 60px;
+}
+
+.bannertext {
+    padding: 20px;
+}

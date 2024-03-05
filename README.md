@@ -1,7 +1,8 @@
 # Friday-hr
+To do before launch: attach header, banner, and footer to every page, finish comp history?, how hard would it be to make blue not cover logo when header opens up?
+
 Pages:
-Home, New Member Info, Media, Calendar and Events, Competition History, Sponsor Info, About Us, Contact Us, Search Bar
-Not Done: Home, comp history
+Home, New Member Info, Media, Calendar and Events, Competition History, Sponsor Info, About Us, Contact Us
 
 next date to put on contract: 2/9/24
 
@@ -36,4 +37,4 @@ Drive Photos Folder - https://drive.google.com/drive/folders/1V_JvBv8gGi32bye-1M
 Resources:
 Footer example code: https://web-eau.net/en/blog/10-best-footer-html-css-snippets 
 Ways to try and apply header and footer to every page: https://www.linkedin.com/advice/0/how-can-you-reuse-headers-footers-multiple-web-pages-skills-html 
-
+make google calendar response: https://blog.vendilli.com/google-calendar-responsive

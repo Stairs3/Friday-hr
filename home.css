@@ -1,18 +1,18 @@
-.extrainfo a {
+.homepage a {
     font-size: 25px;
     color: black;
     text-decoration: none;
     font-weight: bold;
  }
  
-.extrainfo a:visited {
+.homepage a:visited {
      text-decoration: none;
      font-size: 25px;
      color: black;
      font-weight: bold;
  }
  
-.exrainfo a:hover {
+.homepage a:hover {
      text-decoration: none;
      color: #4169e1;
      font-weight: bold;

@@ -6,9 +6,17 @@ contactus ul {
 .rightcolumn {
     float: right;
     padding: 80px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 .leftcolumn {
     float: left;
     padding: 170px 10px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+.contactcolumns {
+    padding: 50px;
 }
